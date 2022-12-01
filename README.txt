@@ -1,8 +1,6 @@
-
-
 This is a project to sequence the unicorn genome.
 I am cold
-this is my 3rd line
-dsfjskfjdklfskfjsfklf
+This is my 3rd line
 It is thursday
-this is on stan's birthday
+This is on Stan's birthday
+Adding a sixth line of github
